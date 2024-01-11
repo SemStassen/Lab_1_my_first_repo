@@ -5,3 +5,6 @@ Lab assignment 1 for Development of Web Applications &amp; Servers @ Northwest M
 Franken Hall, room 611
 830 College Park Drive
 Maryville, MO 64468-6005
+
+## Major
+Communications
