@@ -1,5 +1,5 @@
-A - Apple
-B - Banyan
-C - Cedar
+A - Alder
+B - Baobab
+C - Cherry
 D - Dogwood
 E - Elm
